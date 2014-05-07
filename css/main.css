@@ -248,12 +248,12 @@ p {font-family: "Myriad Pro", Verdana, sans-serif;}
 
     .main article {
         float: left;
-        width: 57%;
+        width: 43%;
     }
 
     .main aside {
         float: right;
-        width: 28%;
+        width: 40%;
     }
 }
 
